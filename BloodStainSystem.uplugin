@@ -10,7 +10,7 @@
 	"DocsURL": "https://tentotentoten.github.io/GhostReplay_Docs/",
 	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/2eb83102-6ea6-448a-a56e-64b905cc1651",
 	"SupportURL": "",
-	"EngineVersion": "5.6.0",
+	"EngineVersion": "5.5.0",
 	"CanContainContent": true,
 	"Installed": true,
 	"Modules": [
